@@ -1,4 +1,4 @@
-# prod-setup
+# 🎹 prod-setup
 
 ## Cask installs
 ```
