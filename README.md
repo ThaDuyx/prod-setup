@@ -52,14 +52,10 @@ pro-l2
 pro-c2
 soothe2
 ```
-
 ## Hubs
 ```
 xln online installer
-
 ```
-
-
 ## Hardware
 ```
 minifuse control center
