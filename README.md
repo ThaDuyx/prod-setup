@@ -3,6 +3,7 @@
 ## Cask installs
 ```
 brew install --cask ableton-live-suite
+brew install --cask fl-studio
 brew install --cask splice
 brew install --cask izotope-product-portal
 brew install --cask native-access
@@ -10,7 +11,21 @@ brew install --cask arturia-software-center
 brew install --cask spitfire-audio
 brew install --cask ilok-license-manager
 ```
-
+## Digital Audio Workstations
+```
+ableton live suite
+fl-studio
+```
+## Hubs
+```
+izotope product portal
+native access
+arturia software center
+spitfire audio
+xln online installer
+refx cloud
+splice
+```
 ## Instruments
 ```
 serum
@@ -51,10 +66,6 @@ pro-r2
 pro-l2
 pro-c2
 soothe2
-```
-## Hubs
-```
-xln online installer
 ```
 ## Hardware
 ```
