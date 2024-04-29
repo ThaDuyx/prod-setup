@@ -26,6 +26,7 @@ spitfire audio
 xln online installer
 refx cloud
 splice
+waves central
 ```
 ## Instruments
 ```
@@ -43,6 +44,8 @@ xpand!2
 sektor synth
 heat up 3
 synthplant2
+atoms
+sky keys
 ```
 ## Effects
 ```
