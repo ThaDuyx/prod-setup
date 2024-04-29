@@ -10,6 +10,7 @@ brew install --cask native-access
 brew install --cask arturia-software-center
 brew install --cask spitfire-audio
 brew install --cask ilok-license-manager
+brew install --cask central-waves
 ```
 ## Digital Audio Workstations
 ```
